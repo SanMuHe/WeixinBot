@@ -2,3 +2,4 @@
 # coding: utf-8
 
 from wechat import WeChat
+from my_wechat import MyWeChat
